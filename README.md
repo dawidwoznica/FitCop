@@ -1,3 +1,3 @@
 # FitCop
 
-Few hours game jam project
+Few hours game jam project from 2020
